@@ -6,12 +6,12 @@
     "cname": ""
   },
   "theme": {
-    "name": "ghostium"
+    "name": "saga"
   },
   "urls": {
     "site": "https://danyechat.github.io",
     "hubpress": "https://danyechat.github.io",
-    "theme": "//danyechat.github.io/themes/casper",
+    "theme": "//danyechat.github.io/themes/ghostium",
     "images": "https://danyechat.github.io/images"
   },
   "initialisationConfigComponent": {
